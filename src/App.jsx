@@ -12,7 +12,7 @@ import Pai from "./components/comunicacao/direta/Pai";
 import Super from "./components/comunicacao/indireta/Super";
 import Input from "./components/form/Input";
 import Contador from "./components/contador/Contador";
-import Mega from "./components/contador/Mega";
+import Mega from "./mega-sena/Mega";
 
 export default (props) => (
   <div className="App">
